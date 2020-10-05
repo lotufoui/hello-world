@@ -1,5 +1,5 @@
 # hello-world
-First GitGub repo
+First GitHub repo
 
 
 Lotu is my name given by my parents :-)
